@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceRecognition</string>
+    <string name="imageContentDescription">Controllo dettatura</string>
+</resources>
